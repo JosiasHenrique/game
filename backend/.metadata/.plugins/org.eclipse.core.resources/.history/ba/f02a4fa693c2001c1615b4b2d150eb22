@@ -1,0 +1,5 @@
+package com.br.jh.gamelistapi.controllers;
+
+public class GameController {
+
+}

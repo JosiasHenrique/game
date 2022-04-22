@@ -1,0 +1,5 @@
+package com.br.jh.gamelistapi.services;
+
+public class GameService {
+
+}
